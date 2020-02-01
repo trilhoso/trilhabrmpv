@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143743632093",
+    "firebase_url": "https://trilha-app.firebaseio.com",
+    "project_id": "trilha-app",
+    "storage_bucket": "trilha-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143743632093:android:4f3b23321e439143f51134",
+        "android_client_info": {
+          "package_name": "br.com.trilhabr.trilhabr_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143743632093-rq9nvn0lrc1tt3najb0tqu85ihgsf524.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.trilhabr.trilhabr_mvp",
+            "certificate_hash": "c447685e6012aa1256f25ee0a52e3e06be7d8828"
+          }
+        },
+        {
+          "client_id": "143743632093-mi4r9ugdthsghm2hhohfc16n8ci8ojd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARurH6nWFDrZDCp579s6F4jsYFTS9p7Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143743632093-mi4r9ugdthsghm2hhohfc16n8ci8ojd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
